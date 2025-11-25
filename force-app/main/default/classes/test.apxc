@@ -1,3 +1,5 @@
 pubic class testMahir{
-
+    public static void testMethod(){
+        System.debug(' Hi Mahir '); 
+    }
 }
